@@ -53,7 +53,7 @@ Three interactive dashboards published on Tableau Public:
 
 Feature Importance:
 
-![Feature Importance](Photos/feature_importance.png)
+![Feature Importance](Photos/Feature_Importance.png)
 
 ## Interactive Streamlit App
 
